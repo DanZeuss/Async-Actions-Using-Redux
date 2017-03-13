@@ -1,0 +1,24 @@
+{
+  "name": "asyncactionsusingredux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanZeuss/Async-Actions-Using-Redux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanZeuss/Async-Actions-Using-Redux/issues"
+  },
+  "homepage": "https://github.com/DanZeuss/Async-Actions-Using-Redux#readme",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "redux-logger": "^2.8.2",
+    "redux-thunk": "^2.2.0"
+  }
+}
